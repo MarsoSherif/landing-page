@@ -1,11 +1,10 @@
-# fast.st — Minimal Static Landing Template
+# micromatch — Minimal Static Landing Template
 
 This is a small, responsive landing page scaffold inspired by examples like `shipfa.st` and `codefa.st`.
 
 Files:
 
 - `index.html` — main page
-- `src/styles.css` — styles
 - `src/script.js` — interactivity + Airtable integration
 
 ## Setup Airtable Integration
